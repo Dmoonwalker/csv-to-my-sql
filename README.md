@@ -10,12 +10,17 @@ This repository contains scripts to import data from a CSV file into a MySQL dat
 
 - PHP installed on your system
 - Access to a MySQL database
+- 
 
 #### Instructions
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the PHP script (`csv_to_mysql.php`).
 3. Open a terminal or command prompt in that directory.
+4. install pandas
+     pip install pandas
+5. install mysql.connector
+     pip install mysql-connector-python
 
 #### Command Line Arguments
 
